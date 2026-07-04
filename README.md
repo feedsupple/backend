@@ -65,7 +65,7 @@ The database design follows a relational model, with tables representing the cor
 This backend provides the following functionalities:
 
 - User authentication and authorization
-- Personalities:
+- Personas:
   - Customer
     - create orders
     - view order history
